@@ -48,15 +48,21 @@ Hardware Used:
 # RESULTS OF THE WORK
 
 Epochs vs Loss Graph
+
 ![image](https://github.com/jerutae/Enhanced-Drowsiness-Detection-using-Deep-Learning/assets/91835091/94b1572f-a82b-46ca-9405-c4db0ef6e720)
 
 Epochs vs Accuracy Graph
+
 ![image](https://github.com/jerutae/Enhanced-Drowsiness-Detection-using-Deep-Learning/assets/91835091/ae7bd151-64d0-4c21-987c-e19b05016cb1)
 
+
 Confusion Matrix
+
 ![image](https://github.com/jerutae/Enhanced-Drowsiness-Detection-using-Deep-Learning/assets/91835091/47f33610-037b-4634-98be-7144d1dd07f7)
 
+
 Classification Report
+
 ![image](https://github.com/jerutae/Enhanced-Drowsiness-Detection-using-Deep-Learning/assets/91835091/3d3a2d7c-8f4a-41fa-91d6-bf330f64dfd7)
 
 
