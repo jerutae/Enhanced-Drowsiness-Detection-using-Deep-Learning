@@ -27,3 +27,36 @@ The way that the Viola-Jones algorithm actually works is through the execution o
  
 # Working of CNN - Deep learning
 In this project, in order to reduce the accidents that are caused by driver’s drowsiness or sleepiness, a driver drowsiness detection system is developed with the help of deep learning techniques. Initially Dataset contains images of both the closed and open eyes of several persons were collected to train the model. Before the training of model takes place, the images are preprocessed so that the dataset can be directly applied to the deep learning algorithm for further process. After preprocessing, our model has been trained. A convolutional neural network (CNN or convnet) is a subset of machine learning. It is one of the various types of artificial neural networks which are used for different applications and data types. A CNN is a kind of network architecture for deep learning algorithms and is specifically used for image recognition and tasks that involve the processing of pixel data. Our system will be installed in automobiles such as cars, buses etc. Our system continuously monitors the eyes of the driver. Whenever the user feels drowsy (He / She feels sleepy by closing the eyes), our system alerts the driver with a beep sound as its primary response. The Alarm goes on increasing when the driver doesn’t wakeup. Then our system is making a phone call to the driver’s emergency contact person or relatives to inform that the person feels drowsy or sleeping while driving along with the driver’s coordinates. Thus, this system effectively reduces the risk of road accidents that are caused by driver’s carelessness.
+
+# Module description
+•	Data Collection
+•	Building and training a CNN Model
+•	Face and Eye Detection
+•	Drowsiness Detection
+•	Alert System
+
+# SYSTEM SPECIFICATION
+Software Used: 
+	Operating System	:	Windows 7 / 8/ 10
+	Language		:	Python
+	IDE			:	Anaconda, Notebook
+Hardware Used: 
+	Processor		:	Ryzen5
+	Ram			:	16 GB
+	Hard Disk		:	120 GB
+
+# RESULTS OF THE WORK
+
+Epochs vs Loss Graph
+![image](https://github.com/jerutae/Enhanced-Drowsiness-Detection-using-Deep-Learning/assets/91835091/94b1572f-a82b-46ca-9405-c4db0ef6e720)
+
+Epochs vs Accuracy Graph
+![image](https://github.com/jerutae/Enhanced-Drowsiness-Detection-using-Deep-Learning/assets/91835091/ae7bd151-64d0-4c21-987c-e19b05016cb1)
+
+Confusion Matrix
+![image](https://github.com/jerutae/Enhanced-Drowsiness-Detection-using-Deep-Learning/assets/91835091/47f33610-037b-4634-98be-7144d1dd07f7)
+
+Classification Report
+![image](https://github.com/jerutae/Enhanced-Drowsiness-Detection-using-Deep-Learning/assets/91835091/3d3a2d7c-8f4a-41fa-91d6-bf330f64dfd7)
+
+
