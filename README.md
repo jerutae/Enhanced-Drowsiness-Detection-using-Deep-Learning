@@ -11,3 +11,6 @@ in 2021. Unfortunately, the age range that is most severely hit by road accident
 	A crucial problem that causes numerous car accidents annually is driver fatigue. Due to the incapacity of a driver to halt or swerve to
 prevent or minimise the impact, accidents caused by driver sleepiness are much more inclined to result in fatalities or severe accidents. Fatigue 
 lowers attentiveness, alertness, and concentration, which impairs the accomplishment of tasks requiring attention such as driving.
+
+
+![image](https://github.com/jerutae/Enhanced-Drowsiness-Detection-using-Deep-Learning/assets/91835091/17a83d38-393a-4067-bbe2-d1e85a59ac5f)
