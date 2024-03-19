@@ -30,20 +30,31 @@ In this project, in order to reduce the accidents that are caused by driver’s 
 
 # Module description
 •	Data Collection
+
 •	Building and training a CNN Model
+
 •	Face and Eye Detection
+
 •	Drowsiness Detection
+
 •	Alert System
 
 # System specification
 Software Used: 
 	Operating System	:	Windows 7 / 8/ 10
+
 	Language		:	Python
+
 	IDE			:	Anaconda, Notebook
+
 Hardware Used: 
+
 	Processor		:	Ryzen5
+
 	Ram			:	16 GB
+
 	Hard Disk		:	120 GB
+
 
 # RESULTS OF THE WORK
 
