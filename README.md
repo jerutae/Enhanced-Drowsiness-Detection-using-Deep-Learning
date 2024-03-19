@@ -41,6 +41,7 @@ In this project, in order to reduce the accidents that are caused by driver’s 
 
 # System specification
 Software Used: 
+
 	Operating System	:	Windows 7 / 8/ 10
 
 	Language		:	Python
